@@ -19,10 +19,6 @@ IF YOU EXECUTE THE FILE:
 4. AFTER THE DELETION OF WINLOGON.EXE, IT WILL RESTART.
 5. AFTER REBOOT, IT WILL WONT BOOT ANYMORE.
 
-Made infos:
-Date: 6/8/2022
-Country: Philippines
-Owner: Weird
+Date: 6/8/2022      Country: Philippines      Owner: Weird
 
-Youtube: Weird_
-Twitch: Weirdddlive
+Youtube: Weird_                               Twitch: Weirdddlive
